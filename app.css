@@ -1,0 +1,21 @@
+body {
+  margin-top: 20px;
+}
+.table {
+  background-color: rgb(243, 243, 243);
+}
+.col-4 {
+  height: 40px;
+}
+nav {
+  position: relative;
+  left: 23em;
+}
+.pagination {
+  position: relative;
+  left: 5em;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
